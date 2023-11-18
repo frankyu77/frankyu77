@@ -1,6 +1,9 @@
-### <u>Hi there 👋 My name is Frank</u>
+### Hello 👋 My name is Frank
 
-#### 📫 Connect with me:
+#### 🤔 About me:
+
+
+#### 📫 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/frankyu77)
 
 #### ⚡ Fun fact:
