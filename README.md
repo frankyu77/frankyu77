@@ -4,9 +4,6 @@
 #### 🤔 About me:
 - I am an aspiring software developer hoping to expand my technical experiences and dive deeper into the tech world
 
-#### ⚡ Fun fact:
-- 
-
 #### 📫 Feel free to connect with me:
 - [LinkedIn](https://linkedin.com/in/frankyu77)
 
