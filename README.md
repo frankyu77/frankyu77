@@ -22,12 +22,12 @@ I am an aspiring software developer hoping to expand my technical experiences an
 
 ## 🔭 I’m currently working on
 
-- Pokemon-Tracker
+- Taking a course on Python
 
 ## 🌱 I’m currently learning
 
 - Python
-- AI/Machine Learning
+- AI/Machine Learning (been reading some interesting articles and learning some of the ML algorithms)
 <!--
 ## 👯 I’m looking to collaborate on
 
