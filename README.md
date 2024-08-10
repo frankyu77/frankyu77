@@ -20,14 +20,16 @@
 
 I am an aspiring software developer hoping to expand my technical experiences and dive deeper into the tech world!
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently...
 
 - Taking a course on Python
+- Working on a C# tetris application
 
 ## 🌱 I’m currently learning
 
 - Python
 - AI/Machine Learning (been reading some interesting articles and learning some of the ML algorithms)
+- C#
 <!--
 ## 👯 I’m looking to collaborate on
 
