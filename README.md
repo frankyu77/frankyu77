@@ -23,7 +23,7 @@ I am an aspiring software developer hoping to expand my technical experiences an
 ## 🔭 I’m currently...
 
 - Taking a course on Python
-- Working on a C# tetris application
+- Making a top-down pixel art game 😎
 
 ## 🌱 I’m currently learning
 
