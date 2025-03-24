@@ -47,7 +47,7 @@ I am an aspiring software developer hoping to expand my technical experiences an
 
 ## ⚡ Fun fact
 
-I can do a backflip
+I can't do a backflip
 
 ## 📊 GitHub Stats
 
