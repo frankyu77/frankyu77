@@ -28,7 +28,7 @@ I am an aspiring software developer hoping to expand my technical experiences an
 ## 🌱 I’m currently learning
 
 - Python
-- AI/Machine Learning (been reading some interesting articles and learning some of the ML algorithms)
+- AI/Machine Learning (reading some interesting articles and learning some of the ML algorithms)
 - C#
 <!--
 ## 👯 I’m looking to collaborate on
